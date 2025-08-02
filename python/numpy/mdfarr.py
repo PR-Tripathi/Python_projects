@@ -20,3 +20,4 @@ print("Standard Deviation: ", std_dev)
 #Variance
 variance=np.var(data)
 print("Variance: ",variance)
+
